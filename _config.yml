@@ -40,7 +40,7 @@ baseurl: "/myblog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: gauravsri_911
-    github: https://github.com/srivastav-gaurav
+    github: srivastav-gaurav
 
 # Set this to true to get LaTeX math equation support
 use_math: 
