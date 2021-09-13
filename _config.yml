@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Gaurav
-description: Gaurav is a data science practitionor and a blogger with educational content about world of AI. This is his personal blog page which will also be driver for his networks.
+title: Gaurav Srivastava
+description: Gaurav is a data science practitionor and a blogger with the hopes of educational content about data science. This is his personal blog page which will also be driver for his networks.
 github_username: srivastav-gaurav
 # you can comment the below line out if your repo name is not different than your baseurl
 # github_repo: "myblog"
